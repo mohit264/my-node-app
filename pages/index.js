@@ -5,7 +5,7 @@ export default function Index() {
     <div>
       <Image src="/logo.png" alt="iximiuz Labs logo" width={22} height={22} />
       &nbsp;
-      Welcome to iximiuz Labs!
+      Welcome to VoidInfinity!
     </div>
   );
 }
